@@ -179,3 +179,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Large CIC-IDS2017 CSV & Parquet files (keep small sample/feature files if needed)
+*.csv
+*.parquet
+!selected_features*
+!sample_*.csv
+!sample_*.parquet
