@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 1000   # MB per file; the original CIC-IDS2017 CSVs reach ~270 MB
+
+[theme]
+base = "light"
