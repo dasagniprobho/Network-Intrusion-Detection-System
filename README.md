@@ -442,9 +442,9 @@ and integration with network-monitoring or security-information systems.
     [dasagniprobho/Network-Intrusion-Detection-System](https://github.com/dasagniprobho/Network-Intrusion-Detection-System)
 -   **Project Mentor:** Arpan Roy
 -   **Team Members(Collaborators):**
-                Agniprobho Das (dasagniprobho)
-                Rajanya Maity (Rajanya-Maity)
-                Yagyaseni Chakraborty (chakrabortyyagyaseni464-dev)
+      1. Agniprobho Das (dasagniprobho)
+      2. Rajanya Maity (Rajanya-Maity)
+      3. Yagyaseni Chakraborty (chakrabortyyagyaseni464-dev)
 
 
 ------------------------------------------------------------------------
